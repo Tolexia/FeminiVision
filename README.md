@@ -2,7 +2,7 @@ Hello there =)
 
 This project is a bootcamp group project which concept was proposed by "La Pellicule Ensorcelée", which is a cinema association, and consists in a website displaying informations about movies directed by women or by women and men, in order to honour female directors.
 
-It is a PHP project made with mySQL, composer library and twig component so if you want to run it by yourself, you need to make sure they both are installed and upgraded to latest versions and follow these few steps :
+It is a PHP project made with mySQL and composer library so if you want to run it by yourself, you need to make sure they are installed and upgraded to latest versions and follow these few steps :
 
 * git clone the project by running command "git clone https://github.com/Tolexia/FeminiVision.git" in a terminal
 * run composer install
